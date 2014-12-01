@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/cirroweb/ember-cli-cirro.svg)](https://travis-ci.org/cirroweb/ember-cli-cirro) [![Code Climate](https://codeclimate.com/github/cirroweb/ember-cli-cirro/badges/gpa.svg)](https://codeclimate.com/github/cirroweb/ember-cli-cirro)
+[![Build Status](https://travis-ci.org/cirroweb/ember-cli-cirro.svg)](https://travis-ci.org/cirroweb/ember-cli-cirro) [![Code Climate](https://codeclimate.com/github/cirroweb/ember-cli-cirro/badges/gpa.svg)](https://codeclimate.com/github/cirroweb/ember-cli-cirro) [![Test Coverage](https://codeclimate.com/github/cirroweb/ember-cli-cirro/badges/coverage.svg)](https://codeclimate.com/github/cirroweb/ember-cli-cirro)
 
 # Ember-cli-cirro
 

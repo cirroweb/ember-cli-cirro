@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/cirroweb/ember-cli-cirro.svg)](https://travis-ci.org/cirroweb/ember-cli-cirro)
+
 # Ember-cli-cirro
 
 This README outlines the details of collaborating on this Ember addon.

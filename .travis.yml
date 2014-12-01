@@ -3,6 +3,10 @@ language: node_js
 
 sudo: false
 
+addons:
+  code_climate:
+    repo_token: 170ae483160a2aafd16df0c6f937c2d7a15b1fe34440408bdd0be33f0ff9efcb
+
 cache:
   directories:
     - node_modules
@@ -18,3 +22,6 @@ install:
 
 script:
   - npm test
+
+after_script:
+  - cat lcov.info | codeclimate

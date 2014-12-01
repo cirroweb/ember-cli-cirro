@@ -10,11 +10,11 @@
     "build": "ember build",
     "test": "ember test"
   },
-  "repository": "",
+  "repository": "https://github.com/cirroweb/ember-cli-cirro",
   "engines": {
     "node": ">= 0.10.0"
   },
-  "author": "",
+  "author": "Cirro",
   "license": "MIT",
   "devDependencies": {
     "broccoli-asset-rev": "^1.0.0",
@@ -31,7 +31,7 @@
     "express": "^4.8.5",
     "glob": "^4.0.5"
   },
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "The starting point for Cirro projects.",
   "keywords": [
     "ember-addon"
   ],
